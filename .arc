@@ -10,6 +10,7 @@ whale-8n7
 @http
 get /
 post /
+post /data
 
 @tables
 data
