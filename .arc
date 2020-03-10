@@ -1,10 +1,15 @@
+# Warning! Do Not Edit
+# --------------------
+# This is a generated file and will be overwritten
+
 @app
-begin-app
+whale-8n7
+
+@static
 
 @http
 get /
 post /
-
 
 @tables
 data
